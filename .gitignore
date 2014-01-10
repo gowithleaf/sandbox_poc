@@ -1,0 +1,16 @@
+.bundle
+db/*.sqlite3
+log/
+tmp/
+.DS_Store
+
+.ropeproject/
+.sass-cache/
+/vendor/bundle
+public/uploads
+lib/auto_tools
+public/ruby_lib/*
+public/assets/
+public/exports/*
+public/sandbox/
+results/
